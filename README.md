@@ -10,7 +10,7 @@ time.php # backend (PHP zapis/odczyt)
 time.json # plik z zapisem stanu - tworzy sieę przy pierwszym uruchomieniu
 
 ## Demo stylu
-![example](https://images.unsplash.com/photo-1525786138363-b8fb7296cda7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400)
+https://time-bgew.onrender.com/
 
 ---
 Projekt edukacyjny – prosty sposób na wizualne śledzenie „kondycji strony”.
