@@ -5,9 +5,9 @@ Czas (dni, godziny, minuty, sekundy) jest zapisywany w pliku i wznawiany przy ko
 
 ## Struktura
 
-index.html # frontend (Vue + styl zegara)
-time.php # backend (PHP zapis/odczyt)
-time.json # plik z zapisem stanu - tworzy sieę przy pierwszym uruchomieniu
+index.html # frontend (Vue + styl zegara)\
+time.php # backend (PHP zapis/odczyt)\
+time.json # plik z zapisem stanu - tworzy sieę przy pierwszym uruchomieniu\
 
 ## Demo stylu
 https://time-bgew.onrender.com/
