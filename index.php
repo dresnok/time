@@ -54,7 +54,7 @@
 </head>
 <body>
   <div id="app" class="container">
-    <img class="background-img" src="https://1drv.ms/i/c/689bf12461b5c83a/EXBWPaJzutdPq5ZNqcOLI-ABdfcMpQFWbEtATenhiXTWng?e=mE7Kbg" alt="Zegar tło">
+    <img class="background-img" src="photo-1525786138363-b8fb7296cda7.jpg" alt="Zegar tło">
     <div class="time">{{ formattedHMS }}</div>
     <div class="days">{{ days }} dni</div>
   </div>
